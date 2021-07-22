@@ -3,7 +3,7 @@
 //La EPS largas filas ha decido desarrollar un módulo de reportes con la siguiente informacion inicial:
 //nombreEPS = Largas Filas
 //nit = 890.001.001
-//afiliados={totalHombres=5600000,totalMujeres=7000000},afiliadosVacunados=21500
+//afiliados={totalHombres=5600000,totalMujeres=7000000},afiliadosVacunados=215000
 let EPS = {
     'nombreEPS': 'Largas Filas',
     'nit': '890.001.001',
